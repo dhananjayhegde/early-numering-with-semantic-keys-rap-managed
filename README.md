@@ -1,2 +1,2 @@
-# early-numering-with-semantic-keys-rap-managed
-Early Numbernig with Semantic Keys - RAP Managed BO
+# Early Numbreing with Semantic Keys - RAP Managed BO
+This repository contains source code for example used in this SCN blog post - [Early Numbreing with Semantic Keys - RAP Managed BO]()
